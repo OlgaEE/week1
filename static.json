@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "redfly"
+      "X-Author": "redfly",
+      "Access-Control-Allow-Origin": "*"
       }
   }
 }
